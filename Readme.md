@@ -27,7 +27,7 @@
       	</nav>
     </header>
 <main class="container">
-  <h1> class="visually-hidden"> Барбершоп «Бородинский»</h1 >
+  <h1 class="visually-hidden"Барбершоп «Бородинский»</h1 >
   <h1> Барбершоп «Бородинский»</h1 >
     <section class="features">
        <h2 class="visually-hidden" Преимущества </h2>
@@ -103,7 +103,7 @@
             </div>
 	<p class="footer-copyright">
                 <b> Разработано </b>
-                <a class="button" href="https://htmlacademy.ru"> HTML Academy </a></p>
+                 <a class="button" href="https://htmlacademy.ru"> HTML Academy </a> </p>
 </footer>
   </body>
 
