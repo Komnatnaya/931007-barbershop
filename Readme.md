@@ -80,11 +80,11 @@
 	ВРЕМЯ РАБОТЫ:
 	ПН — ПТ: С 10:00 ДО 22:00
 	СБ — ВС: С 10:00 ДО 19:00
-	</p>
+	</p> </section>
 
 	<a class="button" href="map.html"> Как проехать </a> </br>
 	<a class="button" href="contacts.html"> Обратная связь </a>
-</section>
+
     <section class="appointment-info"> Укажите желаемую дату и время и мы свяжемся с вами для подтверждения брони </p>
 	<!--Здесь будет форма -->
 </section>
